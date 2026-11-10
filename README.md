@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, my name is Jessica!
 
-<!--
-**jessicaogodo/jessicaogodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a business and data analytics professional with a background in digital marketing and business analytics. I focus on using data to uncover insights, solve business problems, and support informed decision-making. My work Spans data analysis, business process improvement, and marketing research, with an emphasis on translating findings into practical business value. 
 
-Here are some ideas to get you started:
+## Tools & Skills 
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Jupyter-3776AB?logo=python&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627) 
+![Excel](https://img.shields.io/badge/Excel-Reporting-217346?logo=microsoftexcel&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **SQL:** Joins, aggregations, subqueries, and relational data analysis
+- **Python:** Pandas, data cleaning, exploratory analysis, and visualization
+- **Tableau:** Dashboards, visualizations, and data storytelling
+- **Excel:** Formulas, data validation, tracking, and reporting
+- **Business Analysis:** Process mapping, requirements documentation, research, and workflow improvement
+- **Marketing Analytics:** Market research, customer segmentation, and performance analysis
