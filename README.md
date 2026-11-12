@@ -1,6 +1,6 @@
 ## Hi, my name is Jessica!
 
-I'm a business and data analytics professional with a background in digital marketing and business analytics. I focus on using data to uncover insights, solve business problems, and support informed decision-making. My work Spans data analysis, business process improvement, and marketing research, with an emphasis on translating findings into practical business value. 
+I'm a business and data analytics professional with a background in digital marketing and business analytics. I focus on using data to uncover insights, solve business problems, and support informed decision-making. My work spans data analysis, business process improvement, and marketing research, with an emphasis on translating findings into practical business value. 
 
 ## Tools & Skills 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white) 
